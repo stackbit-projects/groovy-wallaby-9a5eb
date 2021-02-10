@@ -9,7 +9,7 @@ sections:
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     actions: []
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     image_position: left
     content: >-
