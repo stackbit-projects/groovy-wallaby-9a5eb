@@ -80,7 +80,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "home"
     },
     "footer": {
         "content": "&copy; Stackbit-Libris. All rights reserved.",
