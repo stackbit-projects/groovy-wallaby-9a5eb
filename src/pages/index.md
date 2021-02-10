@@ -12,8 +12,8 @@ sections:
   - title: ''
     section_id: ''
     image_position: right
-    content: |
-      *
+    content: >
+      ![](https://cbaconsult.eu//assets/img/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg)
     actions: []
     type: section_content
   - section_id: features
