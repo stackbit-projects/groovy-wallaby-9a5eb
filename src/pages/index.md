@@ -11,7 +11,7 @@ sections:
     actions: []
   - title: ''
     section_id: ''
-    image_position: left
+    image_position: right
     content: |
       *
     actions: []
