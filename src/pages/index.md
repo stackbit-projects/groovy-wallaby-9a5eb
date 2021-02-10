@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: CBA Landing Page
     image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
-    content: >-
+    content: >
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     actions:
