@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: CBA Landing Page
     image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
