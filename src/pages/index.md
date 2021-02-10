@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions: []
   - title: ''
-    section_id: lorem-ipsum
+    section_id: ''
     image_position: left
     content: >-
       ## Lorem ipsum
